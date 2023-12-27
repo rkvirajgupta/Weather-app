@@ -16,8 +16,6 @@ https://live-weather-news.netlify.app/
 
 ---
 
----
-
 ## Tech Stack Used : -
 
 <li>HTML</li>
