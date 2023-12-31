@@ -6,7 +6,7 @@ Introducing a weather app. It's your go-to destination for accurate weather fore
 
 ### Netlify Link
 
-https://live-weather-news.netlify.app/
+https://get-live-weather-details.netlify.app/
 
 ---
 
